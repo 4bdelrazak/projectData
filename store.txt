@@ -1,0 +1,7 @@
+itemName-000000128-itemPrice-24.99-itemColors-Navy Blue-itemQuantity-6
+itemName-101067033-itemPrice-14.99-itemColors-Brown-itemQuantity-34
+itemName-001068033-itemPrice-29.99-itemColors-Forest Green-itemQuantity-14
+itemName-207186151-itemPrice-24.99-itemColors-Beige-itemQuantity-30
+itemName-220208255-itemPrice-39.99-itemColors-Lavender-itemQuantity-20
+itemName-128000000-itemPrice-29.99-itemColors-Maroon-itemQuantity-8
+itemName-255255228-itemPrice-29.99-itemColors-Off White-itemQuantity-99
